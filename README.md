@@ -16,5 +16,5 @@ Team "Top G(IU)" 1st place winning Exeed hackathon project, made by Eyad Hassan,
 
 ![future](https://github.com/EyadTamer999/Crack-It/blob/75bf2d273249d13e94b9d88ca9e6c162da137ff8/PPT.jpg/page-6.jpg)
 
-PPT by Mohammed A. Yahia
+PPT by Mohammed A. Yahia and Ahmed Shehata
 
