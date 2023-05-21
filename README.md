@@ -1,6 +1,10 @@
 
-# Crack-It
-Team "Top G(IU)" 1st place winning Exeed hackathon project, made by Eyad Hassan, Mahmoud Osama, Mohammed A. Yahia, Ahmed Shehata, and Ahmed Yehia
+# AR Game for Autism Children - Top G(IU) - Exeed Hackathon Project
+
+Congratulations to Team "Top G(IU)" for securing the 1st place in the Exeed Hackathon! This project, an AR Game for Autism Children, was developed by Eyad Hassan, Mahmoud Osama, Mohammed A. Yahia, Ahmed Shehata, and Ahmed Yehia.
+## Project Description
+
+The AR Game for Autism Children, developed by Team Top G(IU), is an innovative solution designed to assist and support children with autism spectrum disorder (ASD). Our project aims to provide a fun and interactive gaming experience that promotes learning, engagement, and social interaction for children on the autism spectrum.
 
 #### Don't forget to download and import the vuforia sdk package to unity
 - [vuforia package](https://developer.vuforia.com/downloads/SDK)
