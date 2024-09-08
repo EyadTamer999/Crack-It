@@ -1,10 +1,10 @@
 
 # AR Game for Autism Children - Top G(IU) - Exeed Hackathon Project
 
-Congratulations to Team "Top G(IU)" for securing the 1st place in the Exeed Hackathon! This project, an AR Game for Autism Children, was developed by Eyad Hassan, Mahmoud Osama, Mohammed A. Yahia, Ahmed Shehata, and Ahmed Yehia.
+Congratulations to Team "Top G(IU)" for securing the 1st place in the Exeed Hackathon! This project, an AR Game for children with Autism, was developed by Eyad Hassan, Mahmoud Osama, Mohammed A. Yahia, Ahmed Shehata, and Ahmed Yehia.
 ## Project Description
 
-The AR Game for Autism Children, developed by Team Top G(IU), is an innovative solution designed to assist and support children with autism spectrum disorder (ASD). Our project aims to provide a fun and interactive gaming experience that promotes learning, engagement, and social interaction for children on the autism spectrum.
+The AR Game for Autism children with Autism developed by Team Top G(IU), is an innovative solution designed to assist and support children with autism spectrum disorder (ASD). Our project aims to provide a fun and interactive gaming experience that promotes learning, engagement, and social interaction for children on the autism spectrum.
 
 #### Don't forget to download and import the vuforia sdk package to unity
 - [vuforia package](https://developer.vuforia.com/downloads/SDK)
